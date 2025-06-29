@@ -19,3 +19,7 @@ venv/
 
 # Logs
 *.log
+
+# пользовательские аудиофайлы
+/media/audio/*
+!/media/audio/.gitkeep
